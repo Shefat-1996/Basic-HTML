@@ -1,0 +1,28 @@
+p{
+    font-family: poppins;
+    margin-bottom: 0px;
+}
+
+.model{
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 15px;
+    margin-bottom: 2px;
+}
+
+.order{
+    font-size: 20px;
+}
+
+.delivery{
+    color:rgb(85, 145, 241);
+}
+.delivery:hover{
+    cursor:pointer;
+    color:rgb(85, 145, 241);
+    text-decoration: underline;
+    font-weight: bold;
+    transition: color 1s;
+    transition: text-decoration;
+    transition: font-size;
+}
