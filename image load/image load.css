@@ -1,0 +1,23 @@
+.cat-picture{
+    width: 350px;
+    border-radius: 15px;
+
+    }
+    
+    .cat-square{
+        height: 150px;
+        width: 150px;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 15px;
+
+    }
+
+    .cat-circle{
+        height: 150px;
+        width: 150px;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 90px;
+        cursor: pointer;
+    }
