@@ -1,0 +1,65 @@
+p{
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 5px;
+    margin-bottom: 30px;
+}
+
+.pickup{
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    width: 450px;
+    font-weight: bold;
+    color: rgb(172, 164, 164);
+    background-color: rgb(237, 237, 237);
+    border:none;
+    line-height: 15px;
+    margin-bottom: 15px;
+
+}
+
+.destination{
+
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    width: 450px;
+    font-weight: bold;
+    color: rgb(172, 164, 164);
+    background-color: rgb(237, 237, 237);
+    border:none;
+    line-height: 15px;
+    margin-bottom: 40px;
+
+}
+
+.request{
+
+    background-color: black;
+    color: white;
+    border:none;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.schedule-later{
+
+    background-color: rgb(237, 237, 237);
+    font-weight: bold;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: inline-block;
+
+
+}
