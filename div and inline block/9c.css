@@ -1,0 +1,11 @@
+.title{
+    font-family: Verdana;
+}
+
+.service{
+    border-width: 1px;
+    border-style: solid;
+    width:300px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
