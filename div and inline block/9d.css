@@ -1,0 +1,19 @@
+.music{
+    background-color: rgb(41, 40, 40);
+    color:white;
+    width:380px;
+    font-family: Arial;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+
+}
+
+.title{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.subtitle{
+    color: rgb(201, 192, 192);
+}
