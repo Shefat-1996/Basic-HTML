@@ -1,0 +1,45 @@
+.profile{
+
+    width:150px;
+    height:250px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.profile-picture{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+
+}
+
+.name{
+    font-family: Arial;
+    font-weight: bold;
+    line-height:2px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+
+.friends{
+    font-family: Arial;
+    font-size: 14px;
+    padding-left: 10px;
+    color:grey;
+
+}
+
+.add-friend{
+    padding-left: 10px;
+    margin-left: 10px;
+    background-color: rgb(89, 118, 214);
+    color:rgb(235, 227, 227);
+    border:none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
