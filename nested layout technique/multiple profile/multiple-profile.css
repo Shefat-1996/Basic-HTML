@@ -1,0 +1,84 @@
+.block-maa-profile, .block-paa-picture, .block-shadeed-profile, .block-grandpa-profile, .block-grandma-profile{
+    width: 450px;
+}
+
+
+.block-maa-picture, .block-paa-picture, .block-shadeed-picture, .block-grandpa-picture, .block-grandma-picture{
+    width: 80px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+}
+
+.block-maa-info, .block-paa-info, .block-shadeed-info, .block-grandpa-info, .block-grandma-info{
+    width: 150px;
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: top;
+}
+
+
+.block-profile-follow{
+    display: inline-block;
+    width: 150px;
+    height: 90px;
+    vertical-align: top;
+}
+
+.picture{
+
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 40px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.name{
+    font-weight: 800;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.friend{
+    color: grey;
+    font-size: 15px;
+}
+
+.stat{
+    color: grey;
+    font-size: 15px;
+}
+
+.button-follow{
+
+    background-color: rgb(63, 107, 170);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    border-radius: 40px;
+    margin-top: 25px;
+    cursor: pointer;
+    transition: background-color 1s;
+    
+}
+
+.button-follow:hover{
+
+    background-color: rgb(34, 58, 153);
+    border-width: 4px;
+    border-color: rgb(34, 58, 153);
+    font-size: 18px;
+}
